@@ -10,7 +10,7 @@ Etiam velit sem, condimentum vel mauris vel, porta vestibulum erat. Ut condiment
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quam leo, tincidunt vitae maximus non, convallis vitae risus. Nullam a finibus ex. Morbi eleifend sapien eget risus gravida dapibus. Phasellus sagittis quam nunc, nec posuere eros tristique nec. Donec id lorem in lorem gravida laoreet. 
 
-| col1 | col2 | col3 |col4|
+| col1 | col2 | col3 | col4 |
 |----------|-----------|-------------|----------|
 | 1 | 2 | 3 | 4 |
 | 1 | 2 | 3 | 4 |
