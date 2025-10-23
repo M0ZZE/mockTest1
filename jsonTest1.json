@@ -1,0 +1,17 @@
+{
+    "name": "John",
+    "surname": "Doe",
+    "age": 30,
+    "alive": true,
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "zip": "12345"
+    },
+    "degrees": [
+        "BSc Computer Science",
+        "MSc Artificial Intelligence"
+    ],
+    "weight": 75.5,
+    "spouse": null
+}
