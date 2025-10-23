@@ -1,0 +1,39 @@
+{
+    "people":[
+        {
+            "name":"John Doe",
+            "age":30,
+            "city":"New York",
+            "occupation":"Software Engineer",
+            "hobbies":["reading","traveling","coding"]
+        },
+        {
+            "name":"Jane Smith",
+            "age":25,
+            "city":"Los Angeles",
+            "occupation":"Graphic Designer",
+            "hobbies":["painting","hiking","photography"]
+        },
+        {
+            "name":"Mike Johnson",
+            "age":40,
+            "city":"Chicago",
+            "occupation":"Project Manager",
+            "hobbies":["running","cooking","gaming"]
+        },
+        {
+            "name":"Emily Davis",
+            "age":35,
+            "city":"San Francisco",
+            "occupation":"Data Scientist",
+            "hobbies":["cycling","yoga","blogging"]
+        },  
+        {
+            "name":"David Wilson",
+            "age":28,
+            "city":"Seattle",
+            "occupation":"DevOps Engineer",
+            "hobbies":["gaming","traveling","music"]
+        }
+    ]
+}
